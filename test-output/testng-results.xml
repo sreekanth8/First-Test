@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33" started-at="2016-05-31T14:40:02Z" finished-at="2016-05-31T14:40:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33" started-at="2016-05-31T14:40:02Z" finished-at="2016-05-31T14:40:02Z">
+      <class name="sreekanth.MavenTest2.AppTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:sreekanth.MavenTest2.AppTest@c038203]" name="setup" is-config="true" duration-ms="11" started-at="2016-05-31T10:40:02Z" finished-at="2016-05-31T10:40:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="duringTest()[pri:0, instance:sreekanth.MavenTest2.AppTest@c038203]" name="duringTest" duration-ms="7" started-at="2016-05-31T10:40:02Z" finished-at="2016-05-31T10:40:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duringTest -->
+        <test-method status="PASS" signature="closeConnection()[pri:0, instance:sreekanth.MavenTest2.AppTest@c038203]" name="closeConnection" is-config="true" duration-ms="0" started-at="2016-05-31T10:40:02Z" finished-at="2016-05-31T10:40:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeConnection -->
+      </class> <!-- sreekanth.MavenTest2.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
